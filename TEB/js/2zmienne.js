@@ -21,9 +21,9 @@ var x,y
 x = 10;
 y = 5;
 var sume = x + y;
-var roznica = x - y:
-var dzielenie:
-dzielenie = x / y:
-var mnozenie = x * y:
+var roznica = x - y;
+var dzielenie;
+dzielenie = x / y;
+var mnozenie = x * y;
 var modulo = x % y;
 console.log(modulo);
